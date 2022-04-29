@@ -1,0 +1,17 @@
+ul{
+    border: solid 1px black;
+    color: orange;
+}
+footer{
+    text-align: center;
+}
+img {
+    height: 100px;
+    width: 60px;
+    border: none;
+}
+#store{
+    display: block;
+    border: 1px solid rgb(244, 97, 63);
+    background-color: rgb(244, 97, 63);
+}
